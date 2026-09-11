@@ -84,19 +84,6 @@ Experimental Windows desktop interface.
 
 <br>
 
-## `~/status`
-
-```text
-[+] DuoArena               building
-[+] C++                    active
-[+] Windows experiments    active
-
-[*] bugs                   reproducing
-[*] sleep                  unavailable
-[*] compiler               thinking...
-```
-
-<br>
 
 ## `~/contributions`
 
