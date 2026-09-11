@@ -1,48 +1,118 @@
-<div align="center">
+<table>
+<tr>
+<td width="42%" align="center">
 
-<img src="./assets/cpp-girl.jpg" width="380" alt="C++">
+<img src="./assets/cpp-girl.jpg" width="290" alt="C++">
 
-## mapbke
+</td>
 
-`C++` · `Python` · `JavaScript` · `WinAPI` · `Flask` · `React`
+<td width="58%" valign="middle">
 
-<sub>building random shit instead of sleeping</sub>
+<h1>mapbke</h1>
 
-<br>
-<sub>there is probably a segfault somewhere</sub>
+<code>C++</code>
+<code>Python</code>
+<code>JavaScript</code>
+<code>TypeScript</code>
+<code>Rust</code>
 
-</div>
+<br><br>
+
+<sub>
+Windows • backend • low-level • web
+</sub>
+
+<br><br>
+
+<blockquote>
+building random things instead of sleeping
+</blockquote>
+
+<sub>
+probably debugging something that worked yesterday
+</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ~/currently
+### `~/whoami`
 
-```txt
-> DuoArena
-> C++ / Windows experiments
-> breaking things and fixing them later
+```cpp
+struct Developer {
+    const char* name = "mapbke";
+
+    const char* currently = "DuoArena";
+
+    bool likes_cpp = true;
+    bool sleeps_enough = false;
+};
 ```
 
-### ~/projects
+### `~/projects`
 
-**DuoArena** — realtime private 1v1 web arena  
-`Python` `Flask` `Socket.IO` `SQLite`
+<table>
+<tr>
+<td width="33%">
 
-**OptiBN** — Windows & game optimization  
-`Rust` `Tauri` `React`
+### ⚔ DuoArena
 
-**SPECTRE.WIN** — experimental Windows UI  
-`C++20` `ImGui` `DirectX 11`
+Private realtime 1v1 arena.
 
-### ~/stack
+`Python` `Flask`  
+`Socket.IO` `SQLite`
 
-`C++` · `Python` · `JavaScript` · `TypeScript` · `Rust`  
-`WinAPI` · `Flask` · `React` · `Tauri` · `CMake` · `Git`
+</td>
+
+<td width="33%">
+
+### ⚙ OptiBN
+
+Windows & game optimizer.
+
+`Rust` `Tauri`  
+`React` `WinAPI`
+
+</td>
+
+<td width="33%">
+
+### ◈ SPECTRE.WIN
+
+Experimental Windows UI.
+
+`C++20` `ImGui`  
+`DX11` `Win32`
+
+</td>
+</tr>
+</table>
+
+### `~/toolbox`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,rust,html,css,react,git,github,cmake,vscode&perline=12" />
+
+</p>
+
+### `~/status`
+
+```text
+[+] DuoArena              building
+[+] Windows experiments   active
+[*] C++                   probably compiling
+[-] sleep                 unavailable
+```
 
 ---
 
-<div align="center">
+<p align="center">
 
-<sub><code>while (alive) { build(); }</code></sub>
+<sub>
+<code>while (alive) { learn(); build(); break_things(); fix_things(); }</code>
+</sub>
 
-</div>
+</p>
